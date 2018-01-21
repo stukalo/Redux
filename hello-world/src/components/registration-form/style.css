@@ -1,0 +1,16 @@
+.email-field{
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  padding-left: 5px;
+  margin-right: 5px;
+  height: 30px;
+}
+
+.submit-btn{
+  border-radius: 5px;
+  border: 1px solid grey;
+  background-color: antiquewhite;
+  font-size: 12px;
+  height: 100%;
+}
